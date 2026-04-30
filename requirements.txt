@@ -2,5 +2,7 @@ fastapi
 uvicorn
 pytest
 httpx
-psycopg[binary]
+psycopg2-binary
 python-dotenv
+pydantic-settings
+SQLAlchemy
